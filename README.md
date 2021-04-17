@@ -1,4 +1,3 @@
 # test
 
-mirror test
-again
+i think it works
